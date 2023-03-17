@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lathashree Harisha  👋
 
 <!--
 **Lathashree01/lathashree01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Personal Website: [Your Website URL]
 Email: [Your Email]
 -->
-Hi there, I'm Lathashree Harisha 👋
+
 I am a full time student at Imperial College London with 4 years of industry level experience at Sony as a Senior Software engineer. I am passionate about AI, NLP and cloud computing. I enjoy exploring new technologies and learning new skills.
 
 🌱 Skills
