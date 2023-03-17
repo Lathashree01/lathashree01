@@ -1,4 +1,4 @@
-### Hi there, I'm Lathashree Harisha  👋
+### Hi there, I'm Lathashree 👋
 
 <!--
 **Lathashree01/lathashree01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
