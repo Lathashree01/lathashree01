@@ -33,5 +33,3 @@ Imperial College London - MSc Computing (AI and ML specialism) - Expected Gradua
 
 📫 Contact
 LinkedIn: https://www.linkedin.com/in/lathashree-harisha/
-
-Feel free to reach out to me if you have any questions or just want to chat!
