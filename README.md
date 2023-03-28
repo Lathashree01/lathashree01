@@ -24,6 +24,7 @@ Email: [Your Email]
 I am a full time student at Imperial College London pusrsuing MSc in Computing. I have 4 years of industry level experience at Sony as a Senior Software engineer. I am passionate about AI, NLP and cloud computing and I enjoy exploring new technologies, learning new skills.
 
 🌱 Skills
+
 Programming languages: Python, Java, JavaScript
 Tools and technologies: Git, Java, Angular 6, React
 ML libraries: PyTorch, Spacy, Transformers
