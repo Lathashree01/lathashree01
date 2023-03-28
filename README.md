@@ -25,8 +25,8 @@ I am a postgraduate student at Imperial College London. I have 4 years of indust
 
 🌱 Skills
 
-Programming languages: Python, Java, JavaScript
-Tools and technologies: Git, Java, Angular 6, React
+Programming languages: Python, Java, JavaScript\
+Tools and technologies: Git, Java, Angular 6, React\
 ML libraries: PyTorch, Spacy, Transformers
 
 🎓 Education
