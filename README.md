@@ -21,7 +21,7 @@ Personal Website: [Your Website URL]
 Email: [Your Email]
 -->
 
-I am a postgraduate student at Imperial College London. I have 4 years of industry level experience at Sony as a Senior Software engineer. I am passionate about AI, NLP and cloud computing and I enjoy exploring new technologies, learning new skills.
+I am a postgraduate student at Imperial College London, UK. Previously, I worked at Sony as a senior software engineer on multiple AI/ML and web development projects. I am passionate about AI, NLP and cloud computing and I enjoy exploring new technologies, learning new skills.
 
 🌱 Skills\
 ML libraries: PyTorch, Spacy, Transformers, Yolo, OpenCV, Scikit-learn\
